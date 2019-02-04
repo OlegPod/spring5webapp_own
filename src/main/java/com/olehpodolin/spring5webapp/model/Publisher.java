@@ -18,6 +18,8 @@ public class Publisher {
         this.adress = adress;
     }
 
+    public Publisher(){}
+
     public String getName() {
         return name;
     }
